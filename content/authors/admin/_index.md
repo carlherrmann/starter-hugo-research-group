@@ -6,7 +6,7 @@ title: Carl Herrmann
 superuser: true
 
 # Role/position
-role: Group leader and lecture bioinformatics
+role: Group leader and lecturer in bioinformatics
 
 # Organizations/Affiliations
 organizations:

@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Biomedical Genomics group at the Health Data Science Unit - Medical Faculty Heidelberg & BioQuant is working topics centered around **regulatory genomics**. We explore the mechanisms  of transcriptional regulation and how they are altered in disease. We have a strong focus on cancer genomics, applying integrative methods to combine multiple omics datatypes, using advanced statistical and ML techniques.
+The Biomedical Genomics group at the Health Data Science Unit - Medical Faculty Heidelberg & BioQuant is working topics centered around **regulatory genomics** in disease. 
