@@ -23,19 +23,19 @@ interests:
 
 education:
   courses:
-- course: Assistant-professor in Bioinformatics
+  - course: Assistant-professor in Bioinformatics
     institution: University Marseille & INSERM
     year: 2003-2013
-- course: Postdoc Theoretical Physics
+  - course: Postdoc Theoretical Physics
     institution: University Turin - Italy
     year: 2001-2003
-- course: Postdoc Theoretical Physics
+  - course: Postdoc Theoretical Physics
     institution: University Halle (Saale) - Germany
     year: 1999-2001
-- course: PhD Theoretical Physics
+  - course: PhD Theoretical Physics
     institution: University Marseille
     year: 1995-1999
-- course: Engineering degree
+  - course: Engineering degree
     institution: Ecole Nationale des Ponts et Chaussées, Paris
     year: 1991-1994
   
