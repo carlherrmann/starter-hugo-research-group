@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-   - course: Assistant-professor in Bioinformatics
+- course: Assistant-professor in Bioinformatics
     institution: University Marseille & INSERM
     year: 2003-2013
 - course: Postdoc Theoretical Physics
