@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Biomedical Genomics group at the Health Data Science Unit - Medical Faculty Heidelberg & BioQuant is working topics centered around **regulatory genomics** in disease. 
+The Biomedical Genomics group @ HDSU is working topics centered around **regulatory genomics** in disease. 
