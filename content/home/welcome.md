@@ -6,8 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Health Data Science Unit - Biomedical Genomics"
-subtitle: ""
+title: ""
+subtitle: "What we do ..."
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Biomedical Genomics group @ HDSU is working topics centered around **regulatory genomics** in disease. 
+The Biomedical Genomics group @ HDSU is working on topics around **regulatory genomics** in disease. 
