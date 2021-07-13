@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "02 - epigenomics of neuroblastoma"
+title = "Neuroblastoma epigenomics"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -37,11 +37,16 @@ external_link = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "H-matrix"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+
+authors:
+- carl
+- andres 
+
 +++
 
 Neuroblastoma subtypes appear to be strongly defined through epigenomic profiles. We integrate ChIP-seq data on histone modification to extract specific signatures for NB subtypes from tumors and cell lines.

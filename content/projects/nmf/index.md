@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "01 - single-cell and bulk multi-omics integration"
+title = "Molecular signatures from bulk/single-cell omics"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -10,7 +10,7 @@ summary = "Applications of non-negative matrix factorization to single-cell and 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["genomics"]
+tags = ["genomics", "single-cell"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,4 +44,4 @@ external_link = ""
   focal_point = "Smart"
 +++
 
-We are developing various flavors of non-negative matrix factorization to extract lower dimensional representation from multi-omics data layers in bulk and single-cell genomics.
+We are developing various flavors of non-negative matrix factorization to extract lower dimensional representation from multi-omics data layers in bulk and single-cell genomics. This is based on our [ButchR package](https://github.com/hdsu-bioquant/ButchR), which allows to perform non-negative matrix factorizations for bulk and single-cell datasets. Check out our [shiny application](https://hdsu-bioquant.shinyapps.io/shinyButchR/).

@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "03 - deep-learning applications to genomics"
+title = "Deep-learning applications to genomics"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -10,7 +10,7 @@ summary = "Cohort stratification and chromatin feature extraction using neural n
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["genomics"]
+tags = ["genomics", "deep-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,4 +44,5 @@ external_link = ""
   focal_point = "Smart"
 +++
 
-We apply deep neural networks to combine multiple datasets to (1) achieve a better stratification of patient cohorts, or (2) improve the definition of chromatin states by combining ATAC-seq and ChIP-seq data.
+We apply deep neural networks to combine multiple datasets to (1) achieve a better stratification of patient cohorts, or (2) improve the definition of chromatin states by combining ATAC-seq and ChIP-seq data. 
+We apply generative adversarial networks (GANs) to generate single-cell modalities from other single-cell datasets.
