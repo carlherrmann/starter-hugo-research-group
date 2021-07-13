@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: ""
-subtitle: "What we do ..."
+subtitle: "About us ..."
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,4 +17,6 @@ advanced:
   css_class:
 ---
 
-The Biomedical Genomics group @ HDSU is working on topics around **regulatory genomics** in disease. 
+The Biomedical Genomics Group @ Health Data Science Unit at the BioQuant Center and Medical Faculty Heidelberg is working on understanding gene (de)regulation in disease. 
+
+We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
