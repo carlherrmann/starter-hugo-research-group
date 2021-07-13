@@ -21,6 +21,9 @@ interests:
 - Integrative methods
 - Single-cell genomics
 
+authors:
+- carl
+
 education:
   courses:
   - course: Assistant-professor in Bioinformatics
