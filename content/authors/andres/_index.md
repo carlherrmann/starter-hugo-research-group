@@ -1,62 +1,82 @@
-+++
+---
 # Display name
-name = "Andres Quintero"
+title: Andres Quintero
 
 # Is this the primary user of the site?
-superuser = false
+superuser: true
 
 # Role/position
-role = "Graduate student"
+role: PhD student
 
 # Organizations/Affiliations
-# Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "BioQuant - Medical Faculty Heidelberg", url = "http://www.medizinische-fakultaet-hd.uni-heidelberg.de/" } ]
+organizations:
+- name: Medical Faculty Heidelberg & BioQuant
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Computational Biologist"
+bio: My research interests include regulatory genomics and the application of ML to biomedical data.
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "andres.quintero@bioquant.uni-heidelberg.de"
+interests:
+- Regulatory Genomics
+- Integrative methods
+- Single-cell genomics
 
-# List (academic) interests or hobbies
-interests = ["Gene Regulation",	"Epigenomics in Disease", "Machine Learning", "Biological Networks"]
+authors:
+- andres
 
-# Organizational groups that you belong to (for People widget)
-# Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Current"]
-
-#List qualifications (such as academic degrees)
-#[[education.courses]] course = "PhD" institution = "DKFZ" year = 2014
-#[[education.courses]] course = "M.Sc in Genomics" institution = "MKU, India" year = 2009
-#[[education.courses]] course = "BSc in Biotechnology" institution = "VIT, India" year = 2007
+education:
+  courses:
+  - course: Assistant-professor in Bioinformatics
+    institution: University Marseille & INSERM
+    year: 2003-2013
+  - course: Postdoc Theoretical Physics
+    institution: University Turin - Italy
+    year: 2001-2003
+  - course: Postdoc Theoretical Physics
+    institution: University Halle (Saale) - Germany
+    year: 1999-2001
+  - course: PhD Theoretical Physics
+    institution: University Marseille
+    year: 1995-1999
+  - course: Engineering degree
+    institution: Ecole Nationale des Ponts et Chaussées, Paris
+    year: 1991-1994
+  
+ 
+  
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-# For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-# form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:a.quintero@dkfz.de"  # For a direct email link, use "mailto:test@example.org".
-
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://goo.gl/tvIoC2"  # For a direct email link, use "mailto:test@example.org".
-
-#[[social]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/hdsu-bioquant"
-
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:carl.herrmann@bioquant.uni-heidelberg.de'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/CarlMHerrmann
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?user=iqQ4CYgAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/hdsu-bioquant
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+- icon: cv
+  icon_pack: ai
+  link: files/cv_CH.pdf
 
-+++
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-I am currently a doctoral candidate at <a href="https://www.dkfz.de/en/index.html">German Cancer Research Center (DKFZ)</a>. I work at  <a href="https://hdsu-bioquant.netlify.com/">the Health Data Science Unit, </a> Universitätsklinikum Heidelberg, Germany.
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Principal Investigator
+---
+
